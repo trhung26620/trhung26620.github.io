@@ -117,17 +117,17 @@ a.media-icon:hover{
     color: rgb(49, 49, 122);
 }
 .info-container{
-   /* border: solid 1px red; */
-   /* background: linear-gradient(to bottom, #77EED8, #9EABE4); !important; */
    background-color: rgb(248, 248, 248) !important;
 }
 .page-portfolio {
     background-color: rgb(248, 248, 248) !important;
 }
+
 .portfolio-container{
     width: 30%;
     height: 240px;
 }
+
 .detail-pfl-btn{
     background-color: #e32970;
     border-radius: 9999px;
@@ -139,6 +139,7 @@ a.media-icon:hover{
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     font-weight: 600;
 }
+
 .detail-pfl-btn:hover{
     background-color: #bd255f;
 }
@@ -150,23 +151,12 @@ a.media-icon:hover{
     margin-right: -80px !important;
 }
 .intro-section{
-    /* margin-right: 0px; */
     padding-left: 50px;
 }
 .avt-img{
-    /* border-radius: 50%; */
     border: 4px solid black;
 }
-/* .portfolio-list-container{
-    width: 100%;
-} */
-/* .portfolio-section{
-    border: 1px solid red;
-    width: 100% !important;
-}
-.portfolio-section-container{
-    border: 1px solid blue;
-} */
+
 /* End my custom */
 
 /* Image Responsive */
