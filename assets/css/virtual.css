@@ -105,6 +105,31 @@ a:hover, a:active {
 }
 
 /* Start my custom */
+.extra-skill-container{
+    margin-top: 32px;
+    width: 100%;
+}
+.extra-skill-list{
+ width: 100%;
+ display: flex;
+ list-style: none;
+ padding: 0;
+ justify-content: center;
+ gap: 8px;
+ text-align: center;
+ flex-wrap: wrap;
+}
+.extra-skill{
+    width: fit-content;
+    background-color: #747474;
+    color: #ffffff;
+    padding: 8px 12px;
+}
+
+.extra-skill:hover{
+    background-color: #363535;
+}
+
 .email-info {
     color: black;
 }
