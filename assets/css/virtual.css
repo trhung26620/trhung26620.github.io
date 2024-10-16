@@ -179,7 +179,11 @@ a.media-icon:hover{
     padding-left: 50px;
 }
 .avt-img{
-    border: 4px solid black;
+    /* border: 4px solid black; */
+    /* height: 200px; */
+    /* border-radius: 100%; */
+    height: 368px !important;
+    object-fit: cover;
 }
 
 .comming-soon-container{
